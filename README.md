@@ -1,1 +1,5 @@
-# leetcode
+# Leetcode
+
+[BFS]
+
+[DFS]
